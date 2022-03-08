@@ -1,13 +1,13 @@
 # Lab_Work_2
 1. Write programs using elements of an array to:
 
-i. Print position of smallest number in array.
+  i. Print position of smallest number in array.
 
-ii. Insert an element.
+  ii. Insert an element.
 
-iii. Delete a given element.
+  iii. Delete a given element.
 
-iv. Find a given element.
+  iv. Find a given element.
 
 2. Write a program to calculate x^y (Using Recursion).
 3. Write a program to solve TOH (Tower of Hanoi).
